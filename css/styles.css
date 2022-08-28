@@ -1,0 +1,71 @@
+body{
+    font-family: "Montserrat";
+}
+
+#titulo{
+    background-color: #ff4c68;
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+.boton-descarga{
+    margin: 5% 3% 5% 0;
+}
+
+.imagen{
+    width: 50%;
+    transform: rotate(25deg);
+}
+
+h1{
+    font-family: "Montserrat";    
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.marca{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.icono{
+    font-size: 50px; 
+    color: #ef8172;
+  justify-content: center;
+}
+.icono:hover {
+color: #ff4c68;
+}
+.caracteristica{
+    text-align: center;
+}
+h3{
+    font-family: "Montserrat";    
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+p{
+    font-family: "Montserrat";    
+    font-size: 0.8rem;
+}
+.container{
+    text-align: center;
+}
